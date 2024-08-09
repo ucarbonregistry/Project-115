@@ -1,6 +1,49 @@
 # Project-115
 11 MW bundle of Small Scale Hydro Power project by M/s. Balaji Energy Pvt. Ltd. (UCR ID Number: 115)
 The proposed project activity involves construction and operation of 2 Small Scale hydel projects in the state of Andhra Pradesh in India. The project activity has been essentially conceived to generate clean energy by utilizing the hydro potential of the water flowing in the Somsila irrigation channel. This in turn will lead to reduction of greenhouse gas (GHG) emissions by an estimated 34,690 tons of CO2e / year during the crediting period.
+
+Somasila S.H.P (2 x 4 MW)
+______________________
+
+Somasila NFC Mini Hydro Electric
+Project (2x1.5 MW)
+____________________
+Type of Project : Dam toe based Low head Project
+
+Source of water system: Water flowing into the north feeder canal
+from head regulator
+
+Hydrology Source of water: Pennar river
+
+Number of drops Water level difference of Somasila dam &
+FSL of NFC
+Maximum (Gross) :19 m
+7
+
+Design head (Gross): 17 m
+
+Rated head (Net) :15 m
+
+Power draft: 22 Cumecs
+
+Rated Flow Per unit: 11 Cumecs
+
+Maximum flow per unit: 12 Cumecs
+
+Flow availability: 8 months from September to April in a
+water year based on cropping pattern
+
+Intake attached to existing 2 Nos vents
+
+Diameter: 3.2 m
+
+Length including forked tubes: 20 m
+
+Surgepool
+
+Internal diameter: 12 m
+
+Bottom of Surge Pool: 76.50 m
 ____________________
 MP-01 PERIOD: 07/11/2017-31/12/2021
 
