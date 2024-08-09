@@ -36,7 +36,15 @@ Vintage Year: 2021
 
 Quantity: 42177
 ____________________
+MP-02 Period: 01/01/2022-31/12/2022
 
+QTY: 45808
+_______________
+Serial Number: 0002-114197-160004-UCR-CoU-IN-115-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 45808
 
 
 
